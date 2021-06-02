@@ -1,7 +1,7 @@
 {
-	"name": "vscode-office",
-	"displayName": "Office Viewer",
-	"description": "View word,excel files in vscode.",
+	"name": "vscode-typora",
+	"displayName": "Typora",
+	"description": "Edit markdown like typora in vscode.",
 	"version": "2.2.0",
 	"publisher": "cweijan",
 	"icon": "images/icon.png",
